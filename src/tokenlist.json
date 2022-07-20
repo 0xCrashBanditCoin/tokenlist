@@ -25,6 +25,14 @@
       "logoURI": "https://raw.githubusercontent.com/Tea-Dao/image/main/teaLogo.png"
     },
     {
+      "name": "sTea",
+      "symbol": "sTea",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
+      "logoURI": "https://raw.githubusercontent.com/Tea-Dao/image/main/sTea.svg"
+    },
+    {
       "name": "USD",
       "symbol": "USDC",
       "chainId": 9001,
