@@ -8,27 +8,28 @@
   },
   "tokens": [
     {
-      "name": "Evmos Doge",
-      "symbol": "eDOGE",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
       "chainId": 9001,
-      "decimals": 5,
-      "address": "0x93D8c966d8dD358fe5146ad3067a0414f25f7F5B",
-      "logoURI": "https://raw.githubusercontent.com/OxGAB/eDoge/main/eDoge_logo.png"
-    },   {
-      "name": "Evmos Frens",
-      "symbol": "eFrens",
-      "chainId": 9001,
-      "decimals": 9,
-      "address": "0x9a42dc12b9Dc20a59cB1Ff077DD283Cf5E61D768",
-      "logoURI": "https://raw.githubusercontent.com/AI0xFrens/NeuralAI/main/evmosFrens.png"
+      "decimals": 18,
+      "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
     },
     {
-      "name": "BurnEvmos",
-      "symbol": "BurnEvmos",
+      "name": "Tea",
+      "symbol": "Tea",
       "chainId": 9001,
-      "decimals": 9,
-      "address": "0x9E7dDF92e7de1B44BAFEdcECCe42Bd5FA7732926",
-      "logoURI": "https://raw.githubusercontent.com/burnevmos/burnevmos/main/burnevmoswhite.png"
+      "decimals": 18,
+      "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
+      "logoURI": "https://raw.githubusercontent.com/Tea-Dao/image/main/tea_logo_250_250.png"
+    },
+    {
+      "name": "USD",
+      "symbol": "USDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     }
   ]
 }
